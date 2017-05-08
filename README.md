@@ -15,7 +15,7 @@ I have broken this down into the following steps
 |hapi-tut-monolith-03-customer|Just the customer service| [03-customers](https://github.com/quapaw/hapi-tut-monolith-03-customers)|
 |hapi-tut-monolith-03-products|Just the produce service| [03-products](https://github.com/quapaw/hapi-tut-monolith-03-products)|
 |hapi-tut-monolith-04a-customer|Movement of some files| [04a-customers](https://github.com/quapaw/hapi-tut-monolith-04a-customers)|
-|**hapi-tut-monolith-04b-customer**|**New methods and validation**| **[04b-customers](https://github.com/quapaw/hapi-tut-monolith-04b-customers)**|
+|**hapi-tut-monolith-04b-customer**|**New methods**| **[04b-customers](https://github.com/quapaw/hapi-tut-monolith-04b-customers)**|
 
 #HAPI Tutorial - Monolith - 4 - Move toward production
 This part of the tutorial will move the customer plugin more toward a production plugin.
