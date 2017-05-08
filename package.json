@@ -1,0 +1,11 @@
+{
+  "name": "customers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "glue": "^4.1.0"
+  },
+  "dependencies": {
+    "hapi": "^16.1.1"
+  }
+}
